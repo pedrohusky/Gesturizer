@@ -1,0 +1,9 @@
+mediapipe~=0.10.3
+screen-brightness-control
+pygame~=2.5.0
+opencv-python~=4.8.0.74
+PyAutoGUI~=0.9.54
+numpy~=1.25.2
+PyGetWindow~=0.0.9
+comtypes~=1.2.0
+pycaw~=20230407
